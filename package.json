@@ -1,0 +1,12 @@
+{
+    "name": "GDG_Presentation",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "start": "mdx-deck presentation.mdx"
+    },
+    "dependencies": {
+        "mdx-deck": "^1.8.2",
+        "react-syntax-highlighter": "^10.1.2"
+    }
+}
